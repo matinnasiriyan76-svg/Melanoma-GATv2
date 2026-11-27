@@ -1,7 +1,7 @@
 # A Multilayer Immunometabolic Signature Links Antitumor Immunity to Melanoma Immunotherapy Outcomes
 
 Official code repository for the manuscript:
-> **A Multilayer Immunometabolic Signature Links Antitumor Immunity to Melanoma Immunotherapy Outcomes** (*npj Precision Oncology*, submitted).
+> **A Multilayer Immunometabolic Signature Links Antitumor Immunity to Melanoma Immunotherapy Outcomes**.
 
 ## Overview
 
