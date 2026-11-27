@@ -1,7 +1,7 @@
-# Melanoma-GATv2 (v1.1.0): Multilayer Immunometabolic Signature Pipeline
+# Melanoma-GATv2 (v1.1.0): Integrative multi-omics analysis identifies an immunometabolic signature associated with melanoma survival Pipeline
 
 Official code repository for the manuscript:
-> **A Multilayer Immunometabolic Signature Links Antitumor Immunity to Melanoma Immunotherapy Outcomes** (*npj Precision Oncology*).
+> **Integrative multi-omics analysis identifies an immunometabolic signature associated with melanoma survival**.
 
 ## What's New in v1.1.0
 - Aligned `k = 15` symmetric union k-NN graph construction in `src/01_sc_preprocessing_and_lopo_graphs.py` with the audited `cell47_state_snapshot.json` manifest and manuscript Methods.
