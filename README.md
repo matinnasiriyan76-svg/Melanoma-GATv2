@@ -93,7 +93,3 @@ bash run_all.sh
 - **Zero synthetic data:** All analysis and plotting scripts read exclusively from real public datasets and real audited intermediate outputs. Missing input files raise explicit `FileNotFoundError` exceptions rather than falling back to simulated data.
 - **No patient-level leakage:** All HVG selection, scaling, PCA, and k-NN graph construction are strictly confined to the 11 outer-training patients in each LOPO fold.
 - **Transparent reporting:** Both DerSimonian–Laird and conservative truncated HKSJ (df = 1) meta-analysis estimates, part–whole pathway overlap removals, and positively shifted matched permutation null distributions are explicitly computed and exported.
-
-## Citation
-
-If you use this code, please cite the accompanying manuscript in *npj Precision Oncology* (citation details will be updated upon publication).
