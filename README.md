@@ -1,7 +1,7 @@
-# A Multilayer Immunometabolic Signature Links Antitumor Immunity to Melanoma Immunotherapy Outcomes
+# Integrative multi-omics analysis identifies an immunometabolic signature associated with melanoma survival.
 
 Official code repository for the manuscript:
-> **A Multilayer Immunometabolic Signature Links Antitumor Immunity to Melanoma Immunotherapy Outcomes**.
+> **Integrative multi-omics analysis identifies an immunometabolic signature associated with melanoma survival**.
 
 ## Overview
 
